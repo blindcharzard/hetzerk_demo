@@ -2,7 +2,7 @@
 
 first run 
 
-'sudo docker build -t openmm_test .'
+'docker build -t openmm_test .'
 
 and then
 
